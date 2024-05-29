@@ -1,0 +1,9 @@
+# This is Git's per-user configuration file.
+[user]
+  email = htobonmm7@gmail.com
+  name = Hamilton Tobon
+
+[rebase]
+  # Show the author of the commits when interactively rebasing. %an: author name.
+  # See help git-log for all available values in the format.
+  instructionFormat=%s [%an]
